@@ -6,7 +6,7 @@ import java.awt.geom.Path2D;
 import java.util.Random;
 
 /**
- * Transformations2D demonstrates 2D transformations (scaling, rotation, translation)
+ * AdvancedTransformations2D demonstrates 2D transformations (scaling, rotation, translation)
  * on a square using linear algebra matrices in Java. Users can interact with sliders
  * to apply transformations in real-time.
  */
